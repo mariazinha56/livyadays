@@ -42,6 +42,7 @@
      color: var(--branco);
       padding: 40px;
       box-shadow:  5px 5px 5px var(--preto);
+      cursor: pointer;
   }
 
   .cartao:hover{
