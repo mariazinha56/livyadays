@@ -18,6 +18,10 @@ header{
   justify-content: space-around;
 }
 
+header{
+  color: var(--branco);
+}
+
 footer{
     position:fixed;
     bottom:0;
